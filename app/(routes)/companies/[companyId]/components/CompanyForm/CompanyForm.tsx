@@ -193,7 +193,7 @@ export function CompanyForm(props: CompanyFormProps) {
                 <FormItem>
                   <FormLabel>Company description</FormLabel>
                   <FormControl>
-                    <Textarea placeholder="Description..." {...field} />
+                    <Textarea placeholder="Description..."/>
                   </FormControl>
                   <FormMessage />
                 </FormItem>
